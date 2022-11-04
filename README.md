@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://your-solution-url.com)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/anerpeco/four-card-feature-section)
+- Live Site URL: [Vercel](https://four-card-feature-section-anerpeco.vercel.app/)
 
 ## My process
 
